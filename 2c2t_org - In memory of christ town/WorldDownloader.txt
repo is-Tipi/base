@@ -1,0 +1,4 @@
+#These settings are used for a single world in a multiworld server.
+#Fri Nov 29 17:47:05 PST 2019
+WorldName=In memory of christ town
+LastSaved=1575078425492
